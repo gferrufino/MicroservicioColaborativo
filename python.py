@@ -12,7 +12,7 @@ def listar_tareas():
 def completar_tarea(id):
     for tarea in tareas:
         if tarea["id"] == id:
-            tarea["completada"] = True
+            tarea["tarea completada"] = True
             return tarea
     return None
 
