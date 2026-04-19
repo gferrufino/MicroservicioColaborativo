@@ -18,5 +18,5 @@ def completar_tarea(id):
 
 if __name__ == "__main__":
     agregar_tarea("Configurar Git")
-    agregar_tarea("Crear repositorio en GitHub")
+    agregar_tarea("Creacion de un repositorio en GitHub")
     print(listar_tareas())
