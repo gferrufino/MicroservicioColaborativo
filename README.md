@@ -7,14 +7,14 @@ Microservicio desarrollado en Python como base para el pipeline DevOps de la asi
 
 ---
 
-## 📌 Descripción del Proyecto
+##  Descripción del Proyecto
 
 API simple de gestión de tareas que permite agregar, listar y completar tareas.
 Este repositorio implementa buenas prácticas de control de versiones y flujos de trabajo colaborativo usando Git, GitHub y GitHub Actions.
 
 ---
 
-## 🌿 Estrategia de Ramificación: GitFlow
+##  Estrategia de Ramificación: GitFlow
 
 Se eligió **GitFlow** como estrategia de ramificación por las siguientes razones:
 
@@ -34,7 +34,7 @@ Se eligió **GitFlow** como estrategia de ramificación por las siguientes razon
 
 ---
 
-## 🌲 Estructura de Ramas
+##  Estructura de Ramas
 
 | Rama | Propósito |
 |---|---|
@@ -63,7 +63,7 @@ docs: actualizar README con convenciones de commits
 
 ---
 
-## 🔀 Flujo de Merge
+##  Flujo de Merge
 
 ### Para features:
 1. Crear rama desde `develop`: `git checkout -b feature/nombre develop`
@@ -80,7 +80,7 @@ docs: actualizar README con convenciones de commits
 
 ---
 
-## ⚙️ GitHub Actions — CI/CD
+##  GitHub Actions — CI/CD
 
 Se configuró un workflow de GitHub Actions que se ejecuta automáticamente en:
 - Cada `push` a la rama `develop`
@@ -97,7 +97,7 @@ Se configuró un workflow de GitHub Actions que se ejecuta automáticamente en:
 
 ---
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 microservicio-tareas/
 │
 ├── app.py              # Lógica principal del microservicio
@@ -108,7 +108,7 @@ microservicio-tareas/
 └── ci.yml      # Pipeline de GitHub Actions
 
 
-## 👥 Integrantes
+##  Integrantes
 
 - Gabriel Ferrufino
 - Matias Pulgar
@@ -125,7 +125,7 @@ Microservicio desarrollado en Python como base para el pipeline DevOps de la asi
 
 
 
-\## 📌 Descripción del Proyecto
+\##  Descripción del Proyecto
 
 
 
@@ -139,7 +139,7 @@ Este repositorio implementa buenas prácticas de control de versiones y flujos d
 
 
 
-\## 🌿 Estrategia de Ramificación: GitFlow
+\##  Estrategia de Ramificación: GitFlow
 
 
 
@@ -179,7 +179,7 @@ Se eligió \*\*GitFlow\*\* como estrategia de ramificación por las siguientes r
 
 
 
-\## 🌲 Estructura de Ramas
+\##  Estructura de Ramas
 
 
 
@@ -237,7 +237,7 @@ docs: actualizar README con convenciones de commits
 
 
 
-\## 🔀 Flujo de Merge
+\##  Flujo de Merge
 
 
 
@@ -271,7 +271,7 @@ docs: actualizar README con convenciones de commits
 
 
 
-\## ⚙️ GitHub Actions — CI/CD
+\##  GitHub Actions — CI/CD
 
 
 
@@ -305,7 +305,7 @@ Se configuró un workflow de GitHub Actions que se ejecuta automáticamente en:
 
 
 
-\## 📁 Estructura del Proyecto
+\##  Estructura del Proyecto
 
 microservicio-tareas/
 
@@ -327,7 +327,7 @@ microservicio-tareas/
 
 
 
-\## 👥 Integrantes
+\##  Integrantes
 
 
 
