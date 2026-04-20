@@ -1,7 +1,7 @@
 <<<<<<< Updated upstream
 # MicroservicioColaborativo
 Evaluación Parcial 1 DOY0101 Docente: Crisrian Bugueno Pantoja
-# 🛠️ Microservicio de Gestión de Tareas
+#  Microservicio de Gestión de Tareas
 
 Microservicio desarrollado en Python como base para el pipeline DevOps de la asignatura **Ingeniería DevOps (DOY0101)**.
 
